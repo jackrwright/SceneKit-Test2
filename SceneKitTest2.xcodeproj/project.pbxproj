@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21D9CDFA1E3ECCF5002DB219 /* SceneKitExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D9CDF91E3ECCF5002DB219 /* SceneKitExtensions.swift */; };
 		21E047181E3E3D0B0002AF53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E047171E3E3D0B0002AF53 /* AppDelegate.swift */; };
 		21E0471A1E3E3D0B0002AF53 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 21E047191E3E3D0B0002AF53 /* art.scnassets */; };
 		21E0471C1E3E3D0B0002AF53 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E0471B1E3E3D0B0002AF53 /* GameViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21D9CDF91E3ECCF5002DB219 /* SceneKitExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneKitExtensions.swift; sourceTree = "<group>"; };
 		21E047141E3E3D0B0002AF53 /* SceneKitTest2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SceneKitTest2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21E047171E3E3D0B0002AF53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21E047191E3E3D0B0002AF53 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				21E047171E3E3D0B0002AF53 /* AppDelegate.swift */,
 				21E047191E3E3D0B0002AF53 /* art.scnassets */,
 				21E0471B1E3E3D0B0002AF53 /* GameViewController.swift */,
+				21D9CDF91E3ECCF5002DB219 /* SceneKitExtensions.swift */,
 				21E0471D1E3E3D0B0002AF53 /* Main.storyboard */,
 				21E047201E3E3D0B0002AF53 /* Assets.xcassets */,
 				21E047221E3E3D0B0002AF53 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				21E0471C1E3E3D0B0002AF53 /* GameViewController.swift in Sources */,
 				21E047181E3E3D0B0002AF53 /* AppDelegate.swift in Sources */,
+				21D9CDFA1E3ECCF5002DB219 /* SceneKitExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +310,7 @@
 				21E0472A1E3E3D0B0002AF53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
